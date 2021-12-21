@@ -17,6 +17,9 @@ which should show you the Assets folder and the GhostRacer executable.
         ./GhostRacer
 to play the game.
 
-Alternatively, in the folder GhostRacer, you can move the Assets folder
-to your home directory, then double-click on the GhostRacer executable
-file.
+5. If GhostRacer is not an executable, then you may need to type the 
+command:
+        chmod +x GhostRacer
+in your terminal and repeat step 4.
+
+Developed on a Mac, used XQuartz to initialize and render game. 
