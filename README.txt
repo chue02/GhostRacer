@@ -4,6 +4,10 @@ To run GhostRacer:
 GhostRacer and Assets.  It's likely that the path to the folder will be
 /Users/yourname/GhostRacer or /Users/yourname/Downloads/GhostRacer.
 
+If you used 
+        git clone
+then the game will be in whatever directory you used that command.
+
 2. Open a Terminal window and type
         cd whateverThePathIs
 where you should replace whateverThePathIs with the path to the GhostRacer
